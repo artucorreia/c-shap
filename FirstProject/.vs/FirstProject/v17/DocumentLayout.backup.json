@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{4384244B-FC82-4AA9-A1A1-4DE91BBB01F2}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4384244B-FC82-4AA9-A1A1-4DE91BBB01F2}|FirstProject\\FirstProject.csproj|c:\\users\\arthu\\onedrive\\documentos\\github\\c-shap\\firstproject\\firstproject\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4384244B-FC82-4AA9-A1A1-4DE91BBB01F2}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4384244B-FC82-4AA9-A1A1-4DE91BBB01F2}|FirstProject\\FirstProject.csproj|c:\\users\\arthu\\onedrive\\documentos\\github\\c-shap\\firstproject\\firstproject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4384244B-FC82-4AA9-A1A1-4DE91BBB01F2}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Point.cs",
-              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\c-shap\\FirstProject\\FirstProject\\Point.cs",
-              "RelativeDocumentMoniker": "FirstProject\\Point.cs",
-              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\c-shap\\FirstProject\\FirstProject\\Point.cs",
-              "RelativeToolTip": "FirstProject\\Point.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\c-shap\\FirstProject\\FirstProject\\Product.cs",
+              "RelativeDocumentMoniker": "FirstProject\\Product.cs",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\c-shap\\FirstProject\\FirstProject\\Product.cs",
+              "RelativeToolTip": "FirstProject\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T23:41:59.754Z",
+              "WhenOpened": "2024-09-03T23:03:30.157Z",
               "EditorCaption": ""
             },
             {
@@ -45,22 +41,9 @@
               "RelativeDocumentMoniker": "FirstProject\\Program.cs",
               "ToolTip": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\c-shap\\FirstProject\\FirstProject\\Program.cs",
               "RelativeToolTip": "FirstProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T16:44:43.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\c-shap\\FirstProject\\FirstProject\\Product.cs",
-              "RelativeDocumentMoniker": "FirstProject\\Product.cs",
-              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\c-shap\\FirstProject\\FirstProject\\Product.cs",
-              "RelativeToolTip": "FirstProject\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T22:15:11.599Z",
               "EditorCaption": ""
             }
           ]
